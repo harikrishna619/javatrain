@@ -6,7 +6,7 @@ public class second {
 	public static void main(String args[])
 	{
 		
-		int option=0;
+		int option=1;
 		int num=0;
 		Stack<Integer> st =new Stack<>();
 		Scanner s =new Scanner(System.in);
